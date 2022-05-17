@@ -18,9 +18,33 @@ In this example, you'll be creating a Python script to visualize the weather of 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
+
+  <details>
+           <summary>Scatter PLot</summary>
+           <p><img src="output_data/Fig1.png" /> </p>
+  </details>
+
 * Humidity (%) vs. Latitude
+
+  <details>
+           <summary>Scatter PLot</summary>
+           <p><img src="output_data/Fig2.png" /> </p>
+  </details>
+
 * Cloudiness (%) vs. Latitude
+
+  <details>
+           <summary>Scatter PLot</summary>
+           <p><img src="output_data/Fig3.png" /> </p>
+  </details>
+
 * Wind Speed (mph) vs. Latitude
+
+  <details>
+           <summary>Scatter PLot</summary>
+           <p><img src="output_data/Fig4.png" /> </p>
+  </details>
+- - - 
 
 After each plot, add a sentence or two explaining what the code is analyzing.
 
@@ -28,80 +52,60 @@ The second requirement is to run linear regression on each relationship. This ti
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 
-  - <details>
-           <summary>Scatter PLot</summary>
-           <p><img src="output_data/Fig1.png" /> </p>
-    </details>
-
-  - <details>
+  <details>
            <summary>Regression</summary>
            <p><img src="output_data/fig5.png" /> </p>
-    </details>
+  </details>
   
 * Southern Hemisphere - Temperature (F) vs. Latitude
 
-  - <details>
-           <summary>Scatter PLot</summary>
-           <p><img src="output_data/Fig2.png" /> </p>
-    </details>
-
-  - <details>
+  <details>
            <summary>Regression</summary>
            <p><img src="output_data/fig6.png" /> </p>
-    </details>
+  </details>
 
 * Northern Hemisphere - Humidity (%) vs. Latitude
 
-  - <details>
-           <summary>Scatter PLot</summary>
-           <p><img src="output_data/Fig3.png" /> </p>
-    </details>
-
-  - <details>
+  <details>
            <summary>Regression</summary>
            <p><img src="output_data/fig7.png" /> </p>
-    </details>
+  </details>
 
 * Southern Hemisphere - Humidity (%) vs. Latitude
 
-  - <details>
-           <summary>Scatter PLot</summary>
-           <p><img src="output_data/Fig4.png" /> </p>
-    </details>
-
-  - <details>
+  <details>
            <summary>Regression</summary>
-           <p><img src="output_data/Fig8.png" /> </p>
-    </details>
+           <p><img src="output_data/fig8.png" /> </p>
+  </details>
 
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
 
-  - <details>
+  <details>
            <summary>Regression</summary>
            <p><img src="output_data/fig9.png" /> </p>
-    </details>
+  </details>
 
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
 
-  - <details>
+  <details>
            <summary>Regression</summary>
            <p><img src="output_data/fig10.png" /> </p>
-    </details>
+  </details>
 
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 
-  - <details>
+  <details>
            <summary>Regression</summary>
            <p><img src="output_data/fig11.png" /> </p>
-    </details>
+  </details>
 
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-  - <details>
+  <details>
            <summary>Regression</summary>
            <p><img src="output_data/fig12.png" /> </p>
-    </details>
- 
+  </details>
+ - - -
 
 After each pair of plots, take the time to explain what the linear regression is modeling. For example, describe any relationships you notice and any other analysis you may have.
 
